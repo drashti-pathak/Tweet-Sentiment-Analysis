@@ -111,7 +111,7 @@ How to use BERT: https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutoria
 
 After learning BERT, we decided to
 
-##Problem formulation
+## Problem formulation
 We formulate the task as question answering problem: given a question and a context, we train a transformer model to find the answer in the text column (the context).
 
 We have:
